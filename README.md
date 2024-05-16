@@ -1,0 +1,1 @@
+This project is a simple command-line banking system implemented in Python. It allows users to perform basic banking operations such as creating an account, depositing money, withdrawing money, and checking their balance and also store the all detail in the database.
